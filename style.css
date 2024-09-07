@@ -1,0 +1,18 @@
+header {
+    background-color: rgb(115, 80, 147);
+}
+
+section h2 {
+    background-color: rgb(202, 230, 141);
+}
+
+section h3 {
+    background-color: blueviolet;
+}
+
+.btn-custom {
+    background-color: rgb(228, 245, 131);
+    color: rgb(7, 46, 2);
+    border: none;
+    border-radius: 5px;
+}
